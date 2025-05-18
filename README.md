@@ -1,7 +1,9 @@
-# odin-recipies
+# odin-recipes
 BEFORE THE PROJECT
 
-    The purpose of this project is to showcase basic HTML skills that I have learned throughout TOP by creating a simple recipie website.
+    The purpose of this project is to 
+    showcase basic HTML skills that I have learned 
+    throughout TOP by creating a simple recipie website.
     
     By the end of this project I will:
     - Show proficiency in basic HTML
