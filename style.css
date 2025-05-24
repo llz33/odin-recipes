@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
+
+body{
+    background-color: #FDF5E6;
+}
+
+.container{
+    text-align: center;
+    color: #FFF;
+    position: relative;
+    margin-top: 10%;
+    padding: 0;
+}
+
+.upper-title{
+    position: absolute;
+    top: 8%;
+    left: 50%;
+    transform: translate(-50%, -5%);
+    font-family: "Alfa Slab One", 'Arial Narrow Bold', sans-serif;
+    font-size: 100px;
+    margin: auto;
+    display:block;
+    white-space: nowrap;
+
+}
+.lower-title{
+    position: absolute;
+    top: 68%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: "Alfa Slab One", 'Arial Narrow Bold', sans-serif;
+    font-size: 120px;
+    display:block;
+    margin: auto;
+}
+
+.recipe-directory{
+    position: relative;
+    margin-top: 10%;
+    display: inline-block;
+    width: 50%;
+
+}
+
+.directory-header{
+    font-family: "Alfa Slab One", 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(0, 0, 0);
+    color: #FFF;
+    margin-top: 14px;
+    text-align: center;
+    height: 40px;
+    padding: 10px;
+    box-sizing: content-box;
+    font-size: 30px;
+}
+
+.perfection-salad{
+    background-color: #CE8946;
+    border-radius: 8px;
+    height: 60px;
+    padding: 7px 50px;
+    font-size: 32px;
+    box-sizing: border-box;
+    margin: 10px;
+
+}
+.almonds-in-a-haystack{
+    background-color: #CE8946;
+    border-radius: 8px;
+    height: 60px;
+    padding: 7px 50px;
+    font-size: 32px;
+    box-sizing: border-box;
+    margin: 10px;
+
+}
+.crown-roast-of-frankfurters{
+    background-color: #CE8946;
+    border-radius: 8px;
+    height: 60px;
+    padding: 7px 50px;
+    font-size: 32px;
+    box-sizing: border-box;
+    margin: 10px;
+
+}
+
+a{
+    text-decoration: none;
+    color: #3b2814;
+    font-family: "Alfa Slab One", 'Arial Narrow Bold', sans-serif;
+}
+
+.icon{
+    height: 60px;
+    width: 50px;
+    float: right;
+}
+
+.perfection-salad:hover,
+.almonds-in-a-haystack:hover,
+.crown-roast-of-frankfurters:hover {
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+    transition: box-shadow 0.3s ease;
+    cursor: pointer;
+}
