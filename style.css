@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
+@import url('https://fonts.googleapSomething went wrong. Please contact us at community-support@stacSomething went wrong. Please contact us at community-support@stacSomething went wrong. Please contact us at community-support@stacSomething went wrong. Please contact us at community-support@stacSomething went wrong. Please contact us at community-support@stacSomething went wrong. Please contact us at community-support@stacSomething went wrong. Please contact us at community-support@stacSomething went wrong. Please contact us at community-support@stackoverflow.email for assistance. koverflow.email for assistance. koverflow.email for assistance. koverflow.email for assistance. koverflow.email for assistance. koverflow.email for assistance. koverflow.email for assistance. koverflow.email for assistance. is.com/css2?family=Alfa+Slab+One&display=swap');
 
 body{
-    background-color: #FDF5E6;
+    background-color: #FDF5E6; 
 }
 
 .container{
@@ -39,8 +39,7 @@ body{
     position: relative;
     margin-top: 10%;
     display: inline-block;
-    width: 50%;
-
+    width: 50%; 
 }
 
 .directory-header{
@@ -63,6 +62,7 @@ body{
     font-size: 32px;
     box-sizing: border-box;
     margin: 10px;
+
 
 }
 .almonds-in-a-haystack{
@@ -101,7 +101,7 @@ a{
 .perfection-salad:hover,
 .almonds-in-a-haystack:hover,
 .crown-roast-of-frankfurters:hover {
-    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5); 
     transition: box-shadow 0.3s ease;
     cursor: pointer;
 }

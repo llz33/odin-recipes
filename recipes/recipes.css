@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapSomething went wrong. Please contact us at community-support@stacSomething went wrong. Please contact us at community-support@stacSomething went wrong. Please contact us at community-support@stacSomething went wrong. Please contact us at community-support@stacSomething went wrong. Please contact us at community-support@stacSomething went wrong. Please contact us at community-support@stacSomething went wrong. Please contact us at community-support@stacSomething went wrong. Please contact us at community-support@stackoverflow.email for assistance. koverflow.email for assistance. koverflow.email for assistance. koverflow.email for assistance. koverflow.email for assistance. koverflow.email for assistance. koverflow.email for assistance. koverflow.email for assistance. is.com/css2?family=Alfa+Slab+One&display=swap');
+
+body {
+    background-color:  #FDF5E6;
+}
+
+.recipe-title{
+font-family: "Alfa Slab One", 'Arial Narrow Bold', sans-serif;
+color: #fff;
+font-size: 40px;
+background-color: #000000;
+text-align: center;
+width: 50%;
+height: 55px;
+margin: 0 auto;
+}
+
+.recipe-card{
+    background-color: #fff;
+    width: 50%;
+    margin: 0 auto;
+    text-align: left;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.example-images{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #5d3d1e;
+    justify-content: space-between;
+    padding: 0 50px 0 50px;
+}
+
+.homebutton{
+    position: absolute;
+    display: inline-block;
+    width: 25%;
+}
+
+a{
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    color: #000000;
+    height: 100px;
+}
+
+.additional-links{
+    position: absolute;
+    margin-left: 75%;
+    display: inline-block;
+    width: 25%;
+}
+.perfection-salad, .almonds-in-a-haystack, .crown-roast-of-frankfurters{
+    background-color: #CE8946;
+    border-radius: 8px;
+    height: 60px;
+    padding: 20px 25px;
+    font-size: 16px;
+    box-sizing: border-box;
+    margin: 10px;
+    font-family: "Alfa Slab One", 'Arial Narrow Bold', sans-serif;
+
+}
+
+.icon{
+    height: 40px;
+    width: 30px;
+    float: right;
+    position: relative;
+    translate: 0 -20%;
+}
+
+.title-two{
+    font-family: "Alfa Slab One", 'Arial Narrow Bold', sans-serif;
+    color: #fff;
+    background-color: #000000;
+    font-size: 40px;
+    text-align: center;
+    height: 55px;
+    position: relative;
+}
+
+.perfection-salad:hover,
+.almonds-in-a-haystack:hover,
+.crown-roast-of-frankfurters:hover {
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5); 
+    transition: box-shadow 0.3s ease;
+    cursor: pointer;
+}
